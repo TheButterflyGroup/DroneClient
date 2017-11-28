@@ -1,0 +1,23 @@
+{
+  "name": "droneclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheButterflyGroup/DroneClient.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheButterflyGroup/DroneClient/issues"
+  },
+  "homepage": "https://github.com/TheButterflyGroup/DroneClient#readme",
+  "dependencies": {
+    "parrot-minidrone": "^1.1.1",
+    "socket.io-client": "^2.0.4"
+  }
+}
